@@ -4,6 +4,7 @@
   "type": "module",
   "private": true,
   "exports": {
+    "./card": "./src/components/ui/card.tsx",
     "./button": "./src/components/ui/button.tsx",
     "./globals.css": "./src/globals.css",
     "./tailwind.config": "./tailwind.config.ts",
